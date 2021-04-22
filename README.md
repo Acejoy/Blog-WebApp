@@ -5,5 +5,8 @@ This is the implementation of the code following [Corey Schafer's Tutorial on Fl
 I have followed it till video lecture 10.
 
 To run this code, move to this directory and :
->set FLASK_APP=flaskblog
->python run.py
+
+```shell
+set FLASK_APP=flaskblog
+python run.py
+```
